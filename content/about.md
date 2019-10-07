@@ -1,16 +1,14 @@
 ---
 date: "2014-04-09"
-title: "About"
+title: "About Me"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Site ini ditujukan untuk berbagi banyak hal tetapi mostly lebih banyak tentang teknologi, personal opinion, puisi, cerita singkat, dan beberapa random stuff yang mungkin akan dishare di site ini. 
 
-It makes use of a variety of open source projects including:
+Selamat menikmati,
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Social media :
+* Instagram : @zhorahmat
+* Facebook :
+* Twitter :
+* Github : 
