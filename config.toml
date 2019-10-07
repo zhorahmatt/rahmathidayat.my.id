@@ -17,12 +17,12 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  description = "A Librarian, Software Engineer (recently using Go, PHP, JS), Creative Thinker. Instagram @zhorahmat"
+  homeMetaContent = "A Librarian, Software Engineer (recently using Go, PHP, JS), Creative Thinker. Instagram @zhorahmat"
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
-  codePenUser = "someUser"
+  codePenUser = "daengrahmat"
   katex = true
 
 [menu]
