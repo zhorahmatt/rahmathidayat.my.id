@@ -1,28 +1,27 @@
 +++
-title = "About"
+title = "About me"
 description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
+date = "2020-10-20"
 aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
+Welcome...
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Perhaps you are browsing on the internet and get lost to this site and don't know where you are...
 
-Hugo makes use of a variety of open source projects including:
+Perhaps you got the link from my social media...
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Or maybe you know me and want to know more about me...
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+For all of you, Welcome to this site.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+This Site will talk about anything from random stuff about my life to more technical about my jobs as an engineer.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+This site will be updated regurarly or maybe nothing, depends on my mood on writing, but i'll consider to write more consistent as a part of my therapy.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+So.. yah.. hopefully you'll get some knowledge or just wasting your time. :D.
 
+You can contact me on : 
+* Email : info.rahmathidayat@gmail.com
 
-
+Thank you.
