@@ -1,48 +1,58 @@
-baseURL = "https://rahmathidayat.my.id"
+baseURL = "https://rahmathidayat.my.id/"
 languageCode = "en-us"
-defaultContentLanguage = "en"
 title = "Rahmat Hidayat"
-theme = "cupper-hugo-theme"
-googleAnalytics = "UA-134956300-2"
-disqusShortname = "yourdiscussshortname"
-enableGitInfo = true
+theme = "archie"
+copyright = "© zhorahmatt"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-[taxonomies]
-  tag = "tags"
+googleAnalytics = "UA-123-45"
 
-[permalinks]
-  post = "/:filename/"
-
-[imaging]
-  quality = 99
+paginate=3 # articles per page
 
 [params]
-  description = "A Librarian, Software Engineer (recently using Go, PHP, JS), Creative Thinker. Instagram @zhorahmat"
-  homeMetaContent = "A Librarian, Software Engineer (recently using Go, PHP, JS), Creative Thinker. Instagram @zhorahmat"
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)"
-  # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "Jan 2, 2006"
-  codePenUser = "daengrahmat"
-  katex = true
+	mode="auto" # color-mode → light,dark or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+    subtitle = "terbentur, terbentur, terbentuk - Tan Malaka"
+    favicon = "icons/indo.ico"
 
-[menu]
-  [[menu.nav]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "Blog"
-    url = "/post/"
-    weight = 2
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 4
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 5
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/zhorahmatt"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/zhorahmat/"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/zhorahmatt/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
