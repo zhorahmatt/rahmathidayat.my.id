@@ -1,8 +1,8 @@
 +++
-title = "About me"
-description = "Hugo, the world’s fastest framework for building websites"
+title = "A short briefing about me"
+description = "Thinker"
 date = "2020-10-20"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["about-me","contact","tentang-saya","me"]
 author = "Hugo Authors"
 +++
 Welcome...

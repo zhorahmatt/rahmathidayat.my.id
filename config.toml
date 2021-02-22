@@ -7,7 +7,7 @@ copyright = "© zhorahmatt"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+ignoreErrors = ["error-remote-getjson"]
 googleAnalytics = "UA-123-45"
 
 paginate=5 # articles per page
