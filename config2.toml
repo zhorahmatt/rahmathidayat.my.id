@@ -1,0 +1,54 @@
+baseURL = "https://rahmathidayat.my.id/"
+languageCode = "en-us"
+title = "Rahmat Hidayat"
+subtitle = "@zhorahmatt"
+theme = "archie"
+copyright = "© zhorahmatt"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+ignoreErrors = ["error-remote-getjson"]
+googleAnalytics = "UA-123-45"
+
+paginate=5 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+    subtitle = "terbentur, terbentur, terbentuk - Tan Malaka"
+    favicon = "icons/indo.ico"
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/zhorahmatt"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/zhorahmat/"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/zhorahmatt/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
