@@ -1,28 +1,21 @@
 +++
 title = "About"
-description = "Thinker"
-date = "2020-10-20"
-aliases = ["about-me","contact","tentang-saya","me"]
-author = "Hugo Authors"
-
+date = "2019-01-25"
+author = "Radek"
 +++
-### 
 
-Perhaps you are browsing on the internet and get lost to this site and don't know where you are...
+# Hi there
 
-Perhaps you got the link from my social media...
+My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
 
-Or maybe you know me and want to know more about me...
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
 
-For all of you, Welcome to this site.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
 
-This Site will talk about anything from random stuff about my life to more technical about my jobs as an engineer.
+The theme includes:
 
-This site will be updated regurarly or maybe nothing, depends on my mood on writing, but i'll consider to write more consistent as a part of my therapy.
+- **light/dark mode**, depending on your preferences
+- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
+- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 
-So.. yah.. hopefully you'll get some knowledge or just wasting your time. :D.
-
-You can contact me on : 
-* Email : info.rahmathidayat@gmail.com
-
-Thank you.
+So, there you have it... enjoy!
