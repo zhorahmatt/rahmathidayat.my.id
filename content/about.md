@@ -1,11 +1,12 @@
 +++
-title = "A short briefing about me"
+title = "About"
 description = "Thinker"
 date = "2020-10-20"
 aliases = ["about-me","contact","tentang-saya","me"]
 author = "Hugo Authors"
+
 +++
-# Welcome...
+### 
 
 Perhaps you are browsing on the internet and get lost to this site and don't know where you are...
 
