@@ -1,6 +1,7 @@
 baseURL = "https://rahmathidayat.my.id/"
 languageCode = "en-us"
 title = "Rahmat Hidayat"
+subtitle = "@zhorahmatt"
 theme = "archie"
 copyright = "© zhorahmatt"
 # Code Highlight
