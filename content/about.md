@@ -4,16 +4,15 @@ title = "Hi There"
 
 <!-- # Hi there -->
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is **Rahmat** ("Azho/Aso", "Zho", "Rahmat", or "Dayat" or whatever you like to call me)
+and I'm currently writing all things in this blog.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I made it to help you present your ideas easier.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+I made this blog personally as my therapy of having overthinking. a friend once told me, why dont you try to write what you thinking into some personal writing. So finally i am writing on this blog (before that, i have sort of personal notebook containing a complicated story).
 
-The theme includes:
+So if you enjoy my story and can related to you, i hope it will help, let's be friend of sharing same things. Will be much interesting if we have common problem and solving this (or maybe just feeling together :D).
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
+You can contact me on email : info.rahmathidayat@gmail.com
 
 So, there you have it... enjoy!
