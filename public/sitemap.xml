@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rahmathidayat.my.id/</loc>
-    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/my-first-post/</loc>
-    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rahmathidayat.my.id/posts/</loc>
     <lastmod>2020-10-22T13:12:13+08:00</lastmod>
   </url>
@@ -23,82 +13,55 @@
   </url>
   
   <url>
+    <loc>https://rahmathidayat.my.id/posts/tangisan-seorang-prajurit2/</loc>
+    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahmathidayat.my.id/posts/tangisan-seorang-prajurit3/</loc>
+    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahmathidayat.my.id/posts/tangisan-seorang-prajurit4/</loc>
+    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahmathidayat.my.id/posts/tangisan-seorang-prajurit5/</loc>
+    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahmathidayat.my.id/</loc>
+    <lastmod>2020-10-22T13:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rahmathidayat.my.id/about/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahmathidayat.my.id/posts/tg-gh/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <loc>https://rahmathidayat.my.id/showcase/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahmathidayat.my.id/tags/primer/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+    <loc>https://rahmathidayat.my.id/posts/hello/</loc>
+    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rahmathidayat.my.id/posts/post-1/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/tags/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/tags/todo/</loc>
-    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/post-4/</loc>
-    <lastmod>2020-03-18T12:13:35+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/post-7/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/post-6/</loc>
-    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/post-3/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/tags/procrastinating/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/posts/post-2/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rahmathidayat.my.id/tags/space/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
+    <loc>https://rahmathidayat.my.id/archive/</loc>
   </url>
   
   <url>
     <loc>https://rahmathidayat.my.id/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rahmathidayat.my.id/tags/</loc>
   </url>
   
 </urlset>

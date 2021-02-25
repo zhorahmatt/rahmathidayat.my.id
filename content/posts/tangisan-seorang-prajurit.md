@@ -1,10 +1,8 @@
 ---
 title: "Tangisan Seorang Prajurit"
-date: 2020-10-22T13:12:13+08:00
-draft: false
-description: "Menjadi prajurit bukan cita-citaku
-
-Dulu aku selalu ingin menjadi koki"
+date: 2021-02-22
+draft: true
+hideReadMore : true
 #tldr: (optional)
 #tags: [tag names] (optional)
 ---
