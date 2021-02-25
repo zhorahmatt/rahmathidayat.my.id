@@ -1,6 +1,7 @@
 +++
 title = "Hello"
 date = "2021-02-21"
+cover = "img/hello.jpg"
 description = "\"I am currently on the blog. Hello from me\""
 +++
 
