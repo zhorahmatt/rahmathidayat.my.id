@@ -1,18 +1,24 @@
 +++
-title = "Hi There"
+title = "About"
 +++
 
-<!-- # Hi there -->
+Hi..
+I'm Rahmat(@zhorahmatt)
 
-My name is **Rahmat** ("Azho/Aso", "Zho", "Rahmat", or "Dayat" or whatever you like to call me)
-and I'm currently writing all things in this blog.
+### Background
+I am Casual Engineer, daily life managing engineering people [@kioser](https://kioser.com), teacher and speaker sometimes.
+I have been doing programming for about 5 years and still counting.
 
-I made it to help you present your ideas easier.
+I am using PHP, Golang for programming and now more interested in system architecture and system reliability.
 
-I made this blog personally as my therapy of having overthinking. a friend once told me, why dont you try to write what you thinking into some personal writing. So finally i am writing on this blog (before that, i have sort of personal notebook containing a complicated story).
+Currently, i am writing this blog to share my thought.
 
-So if you enjoy my story and can related to you, i hope it will help, let's be friend of sharing same things. Will be much interesting if we have common problem and solving this (or maybe just feeling together :D).
+### Litte More
 
-You can contact me on email : info.rahmathidayat@gmail.com
+I am in love in technology since the college from programming, product management, and everything corelated in this area. And from that background, i have worked for several companies in my hometown.
 
-So, there you have it... enjoy!
+I also in love in books,literacy, and the communities inside it. So i created [@titikmula](https://www.instagram.com/titikmula/) - a library, public spaces, and creativity hub in my [hometown](http://www.pangkepkab.go.id/).
+
+In my free time, i love reading books (currently love reading fiction books), running, basketball, and have a talk with my friends. and also writing everything i think i should write about.
+
+So.. yeah.. that's my introduction. 
