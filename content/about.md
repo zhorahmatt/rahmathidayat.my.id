@@ -5,6 +5,8 @@ title = "About"
 Hi..
 I'm Rahmat(@zhorahmatt)
 
+![photo](/img/profil.jpeg)
+
 ### Background
 I am Casual Engineer, daily life managing engineering people [@kioser](https://kioser.com), teacher and speaker sometimes.
 I have been doing programming for about 5 years and still counting.
