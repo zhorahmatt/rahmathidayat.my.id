@@ -5,7 +5,7 @@ draft: true
 hideReadMore : false
 description: ""
 #tldr: (optional)
-#tags: [tag names] (optional)
+tags: ["mythought"]
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Belajar Cukup"
 date: 2021-02-28T21:06:03+08:00
 draft: false
+tags: ["mythought"]
 ---
 
 Ini sering terjadi..

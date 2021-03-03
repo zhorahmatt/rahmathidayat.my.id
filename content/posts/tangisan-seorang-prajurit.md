@@ -7,7 +7,7 @@ description: "Menjadi prajurit bukan cita-citaku..
 
 Dulu aku selalu ingin menjadi koki"
 #tldr: (optional)
-#tags: [tag names] (optional)
+tags: ["poem"]
 ---
 
 Menjadi prajurit bukan cita-citaku
