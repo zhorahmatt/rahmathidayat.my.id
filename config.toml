@@ -2,6 +2,7 @@ baseurl = "https://rahmathidayat.my.id/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
+googleAnalytics = "G-MKSPQ988LS"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
