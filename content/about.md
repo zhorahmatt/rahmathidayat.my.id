@@ -8,12 +8,12 @@ I'm Rahmat([@zhorahmatt](https://www.instagram.com/zhorahmatt/))
 ![photo](/img/profil.jpeg)
 
 ### Background
-I am Casual Engineer, daily life managing engineering people [@kioser](https://kioser.com), teacher and speaker sometimes.
+I am a Casual Engineer, daily life managing engineering people [@kioser](https://kioser.com), part-time teacher and also a speaker for random stuff mostly in tech.
 I have been doing programming for about 5 years and still counting.
 
 I am using PHP, Golang for programming and now more interested in system architecture and system reliability.
 
-Currently, i am writing this blog to share my thought.
+Currently, interested in writing this blog to share my thought. and also as my therapy.
 
 ### Litte More
 
