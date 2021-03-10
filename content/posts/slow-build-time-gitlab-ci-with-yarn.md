@@ -2,6 +2,7 @@
 title: "Improve Gitlab CI Build Time on React App"
 date: 2021-03-04T11:15:52+08:00
 draft: false
+comments: true
 ---
 
 Recently at my work, we have a work building internal dashboard and my colleague (a Front End Engineer) has picked React App for the front end. I got a job as an accident dev ops (it because our office does not have a dedicated dev ops yet).
