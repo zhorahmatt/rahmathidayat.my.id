@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on zhorahmatt</title>
+    
+    
+    
+    <link>https://rahmathidayat.my.id/tags/tech/</link>
+    <description>Recent content in tech on zhorahmatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Mar 2021 14:52:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://rahmathidayat.my.id/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet My New Blog</title>
+      <link>https://rahmathidayat.my.id/posts/meet-my-new-blog/</link>
+      <pubDate>Wed, 03 Mar 2021 14:52:56 +0800</pubDate>
+      
+      <guid>https://rahmathidayat.my.id/posts/meet-my-new-blog/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://source.unsplash.com/1SAnrIxw5OY/1600x900&#34;/&gt;
+          
+        
+        
+        
+          It&amp;rsquo;s here! My New Blog
+After long time with the old style and not updating any story in this blog, this blog finally arise to the public. :D
+Stack I am using hugo as static site generator(SSR). I love how easy using this tools with less effort of learning new things. just using some template available, publish, and it done. Your blog/web is ON.
+Why Not Using Wordpress? Personally,I don&amp;rsquo;t have much experience on it and i don&amp;rsquo;t want any server side processing on my blog, just simply write md/html file and boom!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

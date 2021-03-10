@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on zhorahmatt</title>
+    
+    
+    
+    <link>https://rahmathidayat.my.id/posts/</link>
+    <description>Recent content in Posts on zhorahmatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Mar 2021 11:15:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://rahmathidayat.my.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improve Gitlab CI Build Time on React App</title>
+      <link>https://rahmathidayat.my.id/posts/slow-build-time-gitlab-ci-with-yarn/</link>
+      <pubDate>Thu, 04 Mar 2021 11:15:52 +0800</pubDate>
+      
+      <guid>https://rahmathidayat.my.id/posts/slow-build-time-gitlab-ci-with-yarn/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Recently at my work, we have a work building internal dashboard and my colleague (a Front End Engineer) has picked React App for the front end. I got a job as an accident dev ops (it because our office does not have a dedicated dev ops yet).
+My job is uploading local project into some accessible url for our user. First, i just ask the front end to send me the project that i have to upload to the server.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Meet My New Blog</title>
+      <link>https://rahmathidayat.my.id/posts/meet-my-new-blog/</link>
+      <pubDate>Wed, 03 Mar 2021 14:52:56 +0800</pubDate>
+      
+      <guid>https://rahmathidayat.my.id/posts/meet-my-new-blog/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://source.unsplash.com/1SAnrIxw5OY/1600x900&#34;/&gt;
+          
+        
+        
+        
+          It&amp;rsquo;s here! My New Blog
+After long time with the old style and not updating any story in this blog, this blog finally arise to the public. :D
+Stack I am using hugo as static site generator(SSR). I love how easy using this tools with less effort of learning new things. just using some template available, publish, and it done. Your blog/web is ON.
+Why Not Using Wordpress? Personally,I don&amp;rsquo;t have much experience on it and i don&amp;rsquo;t want any server side processing on my blog, just simply write md/html file and boom!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Belajar Cukup</title>
+      <link>https://rahmathidayat.my.id/posts/belajar-cukup/</link>
+      <pubDate>Sun, 28 Feb 2021 21:06:03 +0800</pubDate>
+      
+      <guid>https://rahmathidayat.my.id/posts/belajar-cukup/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Ini sering terjadi..
+Dan anehnya seperti tidak dijadikan pelajaran..
+Yang baik saja dari luar, belum tentu baik didalam..
+Sebaliknya begitu, yang jahat dari luar, belum tentu jahat didalam..
+Memang benar berharap pada manusia, jatuhnya kecewa..
+Ya cukuplah ini jadi teguran (yang kesekian kalinya untuk kita)..
+Merasa CUKUP memang perkara yang paling berat akhir ini..
+Semoga kita semua tetap berada dalam lindungan-Nya dan tetap sederhana dan selalu merasa cukup..
+*ditulis diakhir februari sebagai bahan refleksi untuk pribadi
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Tangisan Seorang Prajurit</title>
+      <link>https://rahmathidayat.my.id/posts/tangisan-seorang-prajurit/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahmathidayat.my.id/posts/tangisan-seorang-prajurit/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Menjadi prajurit bukan cita-citaku..
+Dulu aku selalu ingin menjadi koki
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Welcome to the world</title>
+      <link>https://rahmathidayat.my.id/posts/hello/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahmathidayat.my.id/posts/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://rahmathidayat.my.id/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hi, friend?&#34; That&#39;s kind weird. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
